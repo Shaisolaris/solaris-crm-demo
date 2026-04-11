@@ -83,7 +83,7 @@ const AppHeader: React.FC = () => {
           </button>
 
           <Link href="/" className="flex items-center gap-2 lg:hidden">
-            <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-gradient-to-br from-orange-500 to-amber-500 text-base font-bold text-white">
+            <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-gradient-to-br from-indigo-500 to-violet-600 text-base font-bold text-white">
               S
             </span>
             <span className="text-lg font-semibold text-gray-900 dark:text-white">
